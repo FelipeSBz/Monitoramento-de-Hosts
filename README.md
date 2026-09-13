@@ -38,4 +38,4 @@ Relatório mensal em PDF:
 
 Uso:
 
-    python3 monitoranmento.py
+    python3 monitoramento.py
