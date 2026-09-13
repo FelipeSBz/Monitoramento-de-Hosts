@@ -18,9 +18,9 @@ Formato do arquivo de hosts (hosts.csv):
 
 Requisitos:
 
-    sudo apt install fping   (ou o gerenciador de pacotes do seu sistema)
-    (Tkinter já vem incluso na maioria das instalações padrão do Python)
-    pip install reportlab    (apenas para gerar o relatório em PDF)
+    sudo apt install fping               (ou o gerenciador de pacotes do seu sistema)
+    sudo apt install python3-tk          (ou o gerenciador de pacotes do seu sistema)
+    sudo apt install python3-reportlab   (ou o gerenciador de pacotes do seu sistema)
 
 Log de indisponibilidade:
 
