@@ -1,4 +1,4 @@
-# Monitoramento-de-Hosts
+# Monitoramento de Hosts
 Copyright (c) 2026, Felipe da Silva Braz
 
 Licença: GPLv3
